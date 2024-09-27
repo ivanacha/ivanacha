@@ -8,5 +8,5 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I have lived on three different continents.
 
-<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=ivanacha&amp;show_icons=true&amp;theme=radical">
+<!-- <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=ivanacha&amp;show_icons=true&amp;theme=radical"> -->
 <img align="center" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanacha&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="Felix-Kariuki">
