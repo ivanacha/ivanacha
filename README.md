@@ -1,8 +1,8 @@
 ## Hello World!
 - 🔭 Currently working on a navigation system for public transit in the Atlanta metro area and a music-centred social media network on iOS and web platforms using Swift and React.js.
 - 🌱 My recent research has been focused on lazy loading techniques, efficient on-device data management, and networking frameworks in iOS and web programming.
-- 🔎 Researching data resilience and lazy loading in iOS, web, and Python development.
-- 💻 Actively interviewing Software Dev for roles in the Atlanta metro area.
+- 🔎 Studying data resilience and lazy loading in iOS, web, and Python development.
+- 💻 Actively interviewing for Software Dev roles in the Atlanta metro area.
 - 💬 Ask me about Python, AI, JavaScript, Swift, music, or tennis!
 - 📫 How to reach me
       📧:**ivanacha4@gmail.com**
