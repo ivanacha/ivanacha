@@ -3,9 +3,6 @@
 - 🌱 My recent research has been focused on lazy loading techniques, efficient on-device data management, and networking frameworks in iOS, web, and Python development.
 - 💻 Actively interviewing for Software Dev roles in the metro Atlanta area.
 - 💬 Ask me about Python, AI, JavaScript, Swift, music, or tennis!
-- 📫 How to reach me
-      📧:**ivanacha4@gmail.com**
-      👨🏾‍💼:**https://www.linkedin.com/in/ivan-acha-cs**
 - ⚡ Fun fact: I have lived on three different continents.
 
 <img align="center" width="24%" src="https://openclipart.org/image/800px/80485" alt="globe">
