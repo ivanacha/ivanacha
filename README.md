@@ -8,4 +8,4 @@
 <img align="center" width="24%" src="https://openclipart.org/image/800px/80485" alt="globe">
 
 <!-- <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=ivanacha&amp;show_icons=true&amp;theme=radical"> -->
-<!-- <img align="center" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanacha&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="Felix-Kariuki"> -->
+<!-- <img align="center" width="32%" src="[https://github-readme-stats.vercel.app/api/top-langs?username=ivanacha&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="Felix-Kariuki](https://www.publicdomainpictures.net/pictures/400000/velka/globe-vintage-clipart.png)"> -->
